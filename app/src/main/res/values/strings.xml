@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="TeamA">TEAMA</string>
+    <string name="TeamB">TEAMB</string>
+    <string name="btn">Reset</string>
+    <string name="btn1">+1 point</string>
+    <string name="btn2">+2 points</string>
+    <string name="btn3">+3 points</string>
+    <string name="btn_dollar_label">Dollar</string>
+    <string name="btn_euro_label">Euro</string>
+    <string name="btn_won_label">Won</string>
+    <string name="rmb_hint">Input RMB</string>
+    <string name="btn_opencfg_label">config</string>
+    <string name="btn_save_label">Save</string>
+    <string name="menu_set_label">Setting</string>
+    <string name="label_open_list">OpenList</string>
+</resources>
